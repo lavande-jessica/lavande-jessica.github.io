@@ -1,7 +1,7 @@
 name: "kiki's blog"
 description: "Welcome to my blog!"
 
-avatar: https://kiki.github.io/images/20241228125647.png
+avatar: https://lavande-jessica.github.io/images/20241228125647.png
 favicon:
 
 navigation:
@@ -27,7 +27,7 @@ footer-links:
 
 footer-text: Copyright (c) 2024 Pianfan
 
-url: https://kiki.github.io
+url: https://lavande-jessica.github.io
 
 permalink: /:title/
 paginate_path: /page:num/
