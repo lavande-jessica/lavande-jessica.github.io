@@ -2,7 +2,6 @@ name: "kiki's blog"
 description: "Welcome to my blog!"
 
 avatar: https://lavande-jessica.github.io/images/20241228125647.png
-favicon:
 
 navigation:
   - name: 首页
