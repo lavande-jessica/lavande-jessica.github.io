@@ -8,3 +8,4 @@ author: kiki
 ---
 1、什么是autoregressive model
 由之前时刻输出来预测未来时刻输出的模型，生成任务通过逐步预测下一个词汇预测整个序列
+
